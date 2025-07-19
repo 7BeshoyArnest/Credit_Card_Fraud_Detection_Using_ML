@@ -71,7 +71,9 @@ PR AUC (Precision-Recall Curve)
 📌 Key Results
 
 Model               	Precision	  Recall	  F1-score	  ROC-AUC
+
 Logistic Regression	  ✅ High	   ✅ High	   ✅ High	  ✅ Good
+
 XGBoost	              ✅ Higher	 ✅ Higher	 ✅ Better	✅ Best
 
 XGBoost delivered the best results on fraud detection with balanced metrics.
