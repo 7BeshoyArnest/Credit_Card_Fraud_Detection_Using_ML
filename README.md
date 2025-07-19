@@ -11,7 +11,7 @@ Handling class imbalance effectively
 Evaluating models using appropriate metrics
 
 📊 Dataset
-Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud                                                                                   
 Transactions: 284,807
 
 Fraudulent: 492 (0.172%)
